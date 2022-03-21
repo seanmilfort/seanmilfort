@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8972
-Fork on GitHub
-1999
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sean Milfort</h1>
 <h3 align="center">Love talking about technology and learning about development!</h3>
 

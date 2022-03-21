@@ -18,8 +18,8 @@
 - [Welcome](https://blog.seanmilfort.com/welcome)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/seanmilfort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seanmilfort" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seanmilfort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seanmilfort" height="30" width="40" /></a>
 <a href="https://instagram.com/seanmilfort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seanmilfort" height="30" width="40" /></a>
@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seanmilfort&show_icons=true&locale=en" alt="seanmilfort" /></p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tjqspqxnc04xt4h1d12fmg9ra&count=1)
-
-</p>

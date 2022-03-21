@@ -34,4 +34,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seanmilfort&show_icons=true&locale=en" alt="seanmilfort" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tjqspqxnc04xt4h1d12fmg9ra&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tjqspqxnc04xt4h1d12fmg9ra&count=1#center)

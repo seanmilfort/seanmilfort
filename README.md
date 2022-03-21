@@ -11,6 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Spring Event 2022 Recap!](https://blog.seanmilfort.com/apple-spring-event-2022-recap)
+- [Pixel 6 Pro/Android Perspective from a Long Time iOS User](https://blog.seanmilfort.com/pixel-6-proandroid-perspective-from-a-long-time-ios-user)
+- [Welcome](https://blog.seanmilfort.com/welcome)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

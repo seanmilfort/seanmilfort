@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/seanmilfort" target="blank"><img src="https://img.shields.io/twitter/follow/seanmilfort?logo=twitter&style=for-the-badge" alt="seanmilfort" /></a> </p>
 
-- 📝 I regularly write articles on [blog.seanmilfort.com](blog.seanmilfort.com)
+- 📝 I regularly write articles on [My Blog](https://blog.seanmilfort.com)
 
 - 📫 How to reach me **seanmilfort@me.com**
 
-- 📄 Know about my experiences [seanmilfort.com/files/Sean_Milfort_Resume.pdf](seanmilfort.com/files/Sean_Milfort_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://seanmilfort.com/files/Sean_Milfort_Resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/seanmilfort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seanmilfort" height="30" width="40" /></a>
 <a href="https://instagram.com/seanmilfort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seanmilfort" height="30" width="40" /></a>
 <a href="https://hashnode.com/@seanmilfort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@seanmilfort" height="30" width="40" /></a>
-<a href="/https://blog.seanmilfort.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.seanmilfort.com/rss.xml" height="30" width="40" /></a>
+<a href="https://blog.seanmilfort.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.seanmilfort.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

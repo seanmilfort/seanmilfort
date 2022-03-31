@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AirMessage - Sending iMessages on Android!](https://blog.seanmilfort.com/airmessage-sending-imessages-on-android)
 - [Apple Spring Event 2022 Recap!](https://blog.seanmilfort.com/apple-spring-event-2022-recap)
 - [Pixel 6 Pro/Android Perspective from a Long Time iOS User](https://blog.seanmilfort.com/pixel-6-proandroid-perspective-from-a-long-time-ios-user)
 - [Welcome](https://blog.seanmilfort.com/welcome)

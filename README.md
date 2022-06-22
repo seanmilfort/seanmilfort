@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Switched to a Chipolo CARD Spot](https://blog.seanmilfort.com/i-switched-to-a-chipolo-card-spot)
 - [Automating My iPhone Tasks!](https://blog.seanmilfort.com/automating-my-iphone-tasks)
 - [My Experience Taking a Certification Exam](https://blog.seanmilfort.com/my-experience-taking-a-certification-exam)
 - [Back Up macOS with Time Machine and a Synology NAS!](https://blog.seanmilfort.com/back-up-macos-with-time-machine-and-a-synology-nas)
 - [AirMessage - Sending iMessages on Android!](https://blog.seanmilfort.com/airmessage-sending-imessages-on-android)
-- [Apple Spring Event 2022 Recap!](https://blog.seanmilfort.com/apple-spring-event-2022-recap)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>

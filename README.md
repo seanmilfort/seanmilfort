@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pixel Watch Review](https://blog.seanmilfort.com/pixel-watch-review)
 - [Pixel 7 Pro Review](https://blog.seanmilfort.com/pixel-7-pro-review)
 - [Apple Watch Ultra Experience](https://blog.seanmilfort.com/apple-watch-ultra-experience)
 - [iPhone 14 Pro Max Review](https://blog.seanmilfort.com/iphone-14-pro-max-review)
 - [SSH w/o a Password!](https://blog.seanmilfort.com/ssh-wo-a-password)
-- [I Switched to a Chipolo CARD Spot](https://blog.seanmilfort.com/i-switched-to-a-chipolo-card-spot)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>

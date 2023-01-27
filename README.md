@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ecosystems!](https://blog.seanmilfort.com/ecosystems)
 - [The Operating Systems in My Life](https://blog.seanmilfort.com/the-operating-systems-in-my-life)
 - [Goals for 2023](https://blog.seanmilfort.com/goals-for-2023)
 - [Homebridge in My Daily Life!](https://blog.seanmilfort.com/homebridge-in-my-daily-life)
 - [Pixel Watch Review](https://blog.seanmilfort.com/pixel-watch-review)
-- [Pixel 7 Pro Review](https://blog.seanmilfort.com/pixel-7-pro-review)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
